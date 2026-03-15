@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.wav
+*.mp3
+*.h5
+*.pt
+*.pth
+datasets/
+trained_models/

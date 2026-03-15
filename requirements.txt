@@ -1,0 +1,9 @@
+opencv-python
+deepface
+tensorflow
+numpy
+sounddevice
+scipy
+openai
+whisper
+pyttsx3
